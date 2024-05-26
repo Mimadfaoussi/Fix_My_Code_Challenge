@@ -1,1 +1,2 @@
-FIXING FIZZBUZZ
+FIXING FIZZBUZZ 
+FIxing square also
